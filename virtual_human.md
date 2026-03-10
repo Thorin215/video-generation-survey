@@ -361,6 +361,6 @@
 
 ## Offline/Online Agent
 
-[arxiv 2026.03]   [26.03.10] Active Intelligence in Video Avatars via Closed-loop World Modeling [[PDF](https://arxiv.org/abs/2512.20615),[Page](https://xuanhuahe.github.io/ORCA)] ![Code](https://img.shields.io/github/stars/xuanhuahe/ORCA?style=social&label=Star)
+[arxiv 2025.12]   [26.03.10] Active Intelligence in Video Avatars via Closed-loop World Modeling [[PDF](https://arxiv.org/abs/2512.20615),[Page](https://xuanhuahe.github.io/ORCA)] ![Code](https://img.shields.io/github/stars/xuanhuahe/ORCA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
