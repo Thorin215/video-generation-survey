@@ -355,6 +355,11 @@
 
 [arxiv 2025.04]  EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage [[PDF](https://arxiv.org/abs/2504.08718)]
 
+## Offline/Online Agent
+
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 [arxiv 2025.04] CoMotion: Concurrent Multi-person 3D Motion  [[PDF](https://arxiv.org/abs/2504.12186),[Page](https://github.com/apple/ml-comotion)] ![Code](https://img.shields.io/github/stars/apple/ml-comotion?style=social&label=Star)
 
 
