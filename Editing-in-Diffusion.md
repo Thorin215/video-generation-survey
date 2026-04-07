@@ -478,8 +478,6 @@
 
 [arxiv 2025.03] DiffBrush:Just Painting the Art by Your Hands  [[PDF](https://arxiv.org/abs/2502.20904)]
 
-[arxiv 2025.03]  h-Edit: Effective and Flexible Diffusion-Based Editing via Doob’s h-Transform [[PDF](https://arxiv.org/pdf/2503.02187),[Page](https://github.com/nktoan/h-edit)] ![Code](https://img.shields.io/github/stars/nktoan/h-edit?style=social&label=Star)
-
 [arxiv 2025.03] InteractEdit: Zero-Shot Editing of Human-Object Interactions in Images  [[PDF](https://arxiv.org/pdf/2503.09130),[Page](https://jiuntian.github.io/interactedit/)] ![Code](https://img.shields.io/github/stars/jiuntian/interactedit?style=social&label=Star)
 
 [arxiv 2025.03] MoEdit: On Learning Quantity Perception for Multi-object Image Editing  [[PDF](https://arxiv.org/abs/2503.10112),[Page](https://github.com/Tear-kitty/MoEdit)] ![Code](https://img.shields.io/github/stars/Tear-kitty/MoEdit?style=social&label=Star)
@@ -620,6 +618,9 @@
 
 [arxiv 2026.03] Group Editing: Edit Multiple Images in One Go  [[PDF](https://arxiv.org/abs/2603.22883),[Page](https://group-editing.github.io/)] ![Code](https://img.shields.io/github/stars/mayuelala/GroupEditing?style=social&label=Star)
 
+[arxiv 2026.03] Coarse-Guided Visual Generation via Weighted h-Transform Sampling  [[PDF](https://arxiv.org/pdf/2603.12057),[Page]()] ![Code](https://img.shields.io/github/stars/HKUST-LongGroup/Coarse-guided-Gen?style=social&label=Star) : h-transform
+
+[arxiv 2025.03]  h-Edit: Effective and Flexible Diffusion-Based Editing via Doob’s h-Transform [[PDF](https://arxiv.org/pdf/2503.02187),[Page](https://github.com/nktoan/h-edit)] ![Code](https://img.shields.io/github/stars/nktoan/h-edit?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
