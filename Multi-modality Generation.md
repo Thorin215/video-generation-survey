@@ -308,6 +308,13 @@
 
 [arxiv 2025.12] VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning  [[PDF](https://arxiv.org/abs/2512.22315)]
 
+[arxiv 2026.03] Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding  [[PDF](https://arxiv.org/abs/2603.15167)]
+
+[arxiv 2026.03] A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning  [[PDF](https://arxiv.org/abs/2603.14052),[Page](https://github.com/git-disl/A4VL)] ![Code](https://img.shields.io/github/stars/git-disl/A4VL?style=social&label=Star)
+
+[arxiv 2026.03] Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2603.17304)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -428,6 +435,14 @@
 [arxiv 2026.01]  NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation [[PDF](https://arxiv.org/pdf/2601.02204),[Page](https://github.com/ByteVisionLab/NextFlow)] ![Code](https://img.shields.io/github/stars/ByteVisionLab/NextFlow?style=social&label=Star) 
 
 [arxiv 2026.02] Kelix Technique Report: Closing the Understanding Gap of Discrete Tokens in Unified Multimodal Models  [[PDF](https://arxiv.org/pdf/2602.09843)]
+
+[arxiv 2026.03] InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing  [[PDF](https://arxiv.org/abs/2603.09877),[Page](https://github.com/OpenGVLab/InternVL-U)] ![Code](https://img.shields.io/github/stars/OpenGVLab/InternVL-U?style=social&label=Star) 
+
+[arxiv 2026.03] HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering  [[PDF](https://arxiv.org/abs/2603.18558)]
+
+[arxiv 2026.03] LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs  [[PDF](https://arxiv.org/abs/2603.19217),[Page](https://kd-tao.github.io/LVOmniBench/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -478,6 +493,22 @@
 [arxiv 2026.01]  MAIN-VLA: Modeling Abstraction of Intention and eNvironment for Vision-Language-Action Models [[PDF](https://arxiv.org/abs/2602.02212),[Page](https://main-vla.github.io/)] 
 
 [arxiv 2026.02] DreamZero: World Action Models are Zero-shot Policies  [[PDF](https://dreamzero0.github.io/DreamZero.pdf),[Page](https://dreamzero0.github.io/)] ![Code](https://img.shields.io/github/stars/dreamzero0/dreamzero?style=social&label=Star) 
+
+[arxiv 2026.03] Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2603.15618),[Page](https://deepvision-vla.github.io/)]
+
+[arxiv 2026.03] RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation  [[PDF](https://arxiv.org/abs/2603.14880),[Page](https://github.com/lif314/RealVLG-R1)] ![Code](https://img.shields.io/github/stars/lif314/RealVLG-R1?style=social&label=Star)
+
+[arxiv 2026.03] VLA-Thinker: Boosting Vision-Language-Action Models through Thinking-with-Image Reasoning  [[PDF](https://arxiv.org/abs/2603.14523),[Page](https://cywang735.github.io/VLA-Thinker/)] ![Code](https://img.shields.io/github/stars/CYWang735/VLAThinker?style=social&label=Star)
+
+[arxiv 2026.03] Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation  [[PDF](https://arxiv.org/abs/2603.12553),[Page](https://wm-planner.github.io/structvla/)] ![Code](https://img.shields.io/github/stars/wm-planner/structvla?style=social&label=Star) 
+
+[arxiv 2026.03] GigaWorld-Policy: An Efficient Action-Centered World-Action Model  [[PDF](https://arxiv.org/abs/2603.17240)]
+
+[arxiv 2026.03] Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance  [[PDF](https://arxiv.org/abs/2603.25661),[Page](https://chris1220313648.github.io/Fast-dVLA/)]
+
+[arxiv 2026.03] LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior  [[PDF](https://arxiv.org/abs/2603.25399),[Page](https://summerwxk.github.io/lamp-project-page/)]
+
+[arxiv 2026.03] Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2603.24941)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -599,6 +630,7 @@
 
 [arxiv 2026.02]  UniWeTok: An Unified Binary Tokenizer with Codebook Size 2 up 128 for Unified Multimodal Large Language Model [[PDF](https://arxiv.org/abs/2602.14178)]
 
+[arxiv 2026.03] EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.12108)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
