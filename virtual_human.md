@@ -168,6 +168,9 @@
 
 [arxiv 2026.03] UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.22282),[Page](https://wangzy01.github.io/UniMotion/)]
 
+
+duplex [arxiv 2026.03] LPM 1.0: Video-based Character Performance Model  [[PDF](https://github.com/large-performance-model/large-performance-model.github.io/blob/main/assets/LPM_report.pdf),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
