@@ -5,3 +5,9 @@
 [arxiv 2604.21921] Context Unrolling in Omni Models [[PDF](https://arxiv.org/pdf/2604.21921),[Page]()] ![Code](https://img.shields.io/github/stars/?style=social&label=Star)
 
 [arxiv 2505.14683] Emerging Properties in Unified Multimodal Pretraining [[PDF](https://arxiv.org/pdf/2505.14683),[Page]()] ![Code](https://img.shields.io/github/stars/?style=social&label=Star)
+
+
+Latent cot & multimodal cot
+
+[arxiv 2508.05606] Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [[PDF](https://arxiv.org/pdf/2508.05606),[Page]()] ![Code](https://img.shields.io/github/stars/Fr0zenCrane/UniCoT?style=social&label=Star)
+
